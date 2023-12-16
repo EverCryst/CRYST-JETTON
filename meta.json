@@ -3,7 +3,7 @@
   "description": "Jetton by CRYST TON (https://t.me/cryst_ton)",
   "symbol": "CRYST",
   "decimals": "9",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/EverCryst/CRYST-JETTON/main/logo.jpg",
   "social": [
     "https://t.me/cryst_ton"
   ]
